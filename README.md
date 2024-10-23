@@ -5,24 +5,17 @@
 <br>
 
 Install Flask and httpx:
-
-<br>
-
 1. Codespace> pip3 install Flask
 2. Codespace> pip3 install httpx
 
 <br>
 
 Run the server:
-   
-<br>
-
 1. Codespace> python3 my-server.py
 
 <br>
 
-Run the client:
-   
+Run the client:   
 1. Open a new terminal
 2. Codespace> python3 my-calls.py
 
