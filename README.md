@@ -4,27 +4,27 @@ Download all the files open the repo in a codespace
 
 <br>
 
-1. Install Flask and httpx)
+Install Flask and httpx)
 
 <br>
 
-Codespace> pip3 install Flask
-Codespace> pip3 install httpx
+1. Codespace> pip3 install Flask
+2. Codespace> pip3 install httpx
 
 <br>
 
-2. Run the server)
+Run the server)
    
 <br>
 
-Codespace> python3 my-server.py
+1. Codespace> python3 my-server.py
 
 <br>
 
-3. Run the client)
+Run the client)
    
-Open a new terminal
-Codespace> python3 my-calls.py
+1. Open a new terminal
+2. Codespace> python3 my-calls.py
 
 <br>
 
