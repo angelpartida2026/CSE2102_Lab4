@@ -1,10 +1,10 @@
 # CSE2102_Lab4
 
-Download all the files open the repo in a codespace
+**Download all the files open the repo in a codespace**
 
 <br>
 
-Install Flask and httpx)
+Install Flask and httpx:
 
 <br>
 
@@ -13,7 +13,7 @@ Install Flask and httpx)
 
 <br>
 
-Run the server)
+Run the server:
    
 <br>
 
@@ -21,12 +21,12 @@ Run the server)
 
 <br>
 
-Run the client)
+Run the client:
    
 1. Open a new terminal
 2. Codespace> python3 my-calls.py
 
 <br>
 
-Successful POST will return 200 OK with the message "Login successful"
+Successful POST will return 200 OK with the message "Login successful"<br>
 Incorrect POST will return 401 with the message "Invalid credentials"
