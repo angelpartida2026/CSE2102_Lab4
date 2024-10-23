@@ -1,16 +1,16 @@
 # CSE2102_Lab4
 
 Download all the files open the repo in a codespace
-<br/>
+<br>
 Install Flask and httpx)
-<br/>
+<br>
 Codespace> pip3 install Flask
 Codespace> pip3 install httpx
-<br/>
+<br>
 Run the server)
-<br/>
+<br>
 Codespace> python3 my-server.py
-<br/>
+<br>
 Run the client)
 Open a new terminal
 Codespace> python3 my-calls.py
