@@ -1,4 +1,4 @@
-from flask import Flask, request, jsonify
+from flask import Flask, request
 
 app = Flask(__name__)
 
@@ -21,9 +21,9 @@ def login():
    user_id = auth_data.get('id')
    token = auth_data.get('token')
    if users.get(user_id) == token:
-       return jsonify({"Login successful"}), 200
+      return "Login successful", 200
    else:
-       return jsonify({"Invalid credentials"}), 401
+      return "Invalid credentials", 401 
 
 if __name__ == "__main__":
    app.run(host='0.0.0.0')
